@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Requests - Food Choices</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>Food Choices</h1>
+        <p>Latest meal requests from the Food Choices team</p>
+    </div>
+</header>
+
+<nav>
+    <div class="container">
+        <a class="nav-link" href="#top">Home</a>
+        <a class="nav-link" href="#requests">Requests</a>
+    </div>
+</nav>
+
+<main id="requests">
+    <section class="section">
+        <div class="container">
+            <h2>Latest food requests</h2>
+            <p>Newest first. Click a card to open its link.</p>
+            <div class="cards" id="food-cards">
+                <!-- Cards are injected here by app.js -->
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Food Choices. Made for the members.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
