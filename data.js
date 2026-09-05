@@ -5,7 +5,5 @@
    deleted. */
 
 const FOOD_REQUESTS = [
-  { title: "Pizza Party", date: "2026-09-15", link: "https://example.com/pizza" },
-  { title: "Burger Night", date: "2026-09-08", link: "https://example.com/burgers" },
-  { title: "Pasta Lunch", date: "2026-08-28", link: "https://example.com/pasta" },
+  { title: "Atrium Food Request", date: "2026-09-10", link: "https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=Ss9gunGyjEaOTfgifWd91hjI3k_Ie0NKtR-0DP_YSelUNTE5OEZCUVVNOUtIUjZaNVpDNlhTOUVBTy4u" },
 ];
