@@ -5,5 +5,5 @@
    deleted. */
 
 const FOOD_REQUESTS = [
-  { title: "Atrium Food Request", date: "2026-09-10", link: "https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=Ss9gunGyjEaOTfgifWd91hjI3k_Ie0NKtR-0DP_YSelUNTE5OEZCUVVNOUtIUjZaNVpDNlhTOUVBTy4u" },
+  { title: "Atrium Food Request", date: "2026-09-10", link: "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Ss9gunGyjEaOTfgifWd91hjI3k_Ie0NKtR-0DP_YSelUNTE5OEZCUVVNOUtIUjZaNVpDNlhTOUVBTy4u" },
 ];
